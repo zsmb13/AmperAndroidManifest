@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             Koala0718934243Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Amper",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }

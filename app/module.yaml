@@ -1,0 +1,7 @@
+product: android/app
+
+module:
+  layout: gradle-jvm
+
+settings:
+  compose: enabled
